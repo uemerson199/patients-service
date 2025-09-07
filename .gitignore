@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+.gradle/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Log files
+*.log
+
+# Dependency caches
+.DS_Store
+.classpath
+.project
+.settings
